@@ -8,5 +8,8 @@
   "private": false,
   "scripts": {
     "build": "mkdir dist && cp src/index.js dist/"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }

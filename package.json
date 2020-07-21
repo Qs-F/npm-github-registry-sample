@@ -1,6 +1,6 @@
 {
   "name": "npm-github-registry-sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:Qs-F/npm-github-registry-sample.git",
   "author": "Qs-F <qsf@de-liker.com>",

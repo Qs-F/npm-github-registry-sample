@@ -1,5 +1,5 @@
 {
-  "name": "npm-github-registry-sample",
+  "name": "@qs-f/npm-github-registry-sample",
   "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:Qs-F/npm-github-registry-sample.git",
